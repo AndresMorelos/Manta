@@ -1,14 +1,7 @@
-<p align="center">
-  <img src="https://d3crtwyc2nw0fl.cloudfront.net/items/0M0W110L142j0t2H0W2X/manta-logo.svg" alt="Manta App Logo" width="180" height="auto"/>
-</p>
-
 <h2>
   Manta
-  <a href="https://travis-ci.org/hql287/Manta">
-    <img src="https://travis-ci.org/hql287/Manta.svg?branch=dev" alt="Build Status">
-  </a>
-  <a href="https://github.com/hql287/Manta/releases/tag/v1.1.4">
-    <img src="https://img.shields.io/badge/version-1.1.4-green.svg" alt="v1.1.4">
+  <a href="https://github.com/AndresMorelos/Manta/releases/tag/v1.2.0">
+    <img src="https://img.shields.io/badge/version-1.2.0-green.svg" alt="v1.2.0">
   </a>
   <a title="Crowdin" target="_blank" href="https://crowdin.com/project/manta">
     <img src="https://d322cqt584bo4o.cloudfront.net/manta/localized.svg">
@@ -20,7 +13,7 @@
 
 A desktop application for creating invoices with beautiful and customizable templates.
 
-<a href="#screenshots">Screenshots</a> •
+<!-- <a href="#screenshots">Screenshots</a> • -->
 <a href="#features">Features</a> •
 <a href="#downloads">Downloads</a> •
 <a href="#technologies">Technologies</a> •
@@ -30,9 +23,9 @@ A desktop application for creating invoices with beautiful and customizable temp
 <a href="#faq">FAQ</a> •
 <a href="#acknowledgement">Acknowledgement</a>
 
-### Screenshots
+<!-- ### Screenshots -->
 
-Here's a few screenshots of Manta. [See more](https://github.com/hql287/Manta/wiki/Screenshots)
+<!-- Here's a few screenshots of Manta. [See more](https://github.com/AndresMorelos/Manta/wiki/Screenshots)
 
 ![Business Template](https://dzwonsemrish7.cloudfront.net/items/3c1R1G1F3T3Z0M3n3V3G/Business%20Template.jpg?v=f9064204)
 
@@ -40,14 +33,14 @@ Here's a few screenshots of Manta. [See more](https://github.com/hql287/Manta/wi
 
 ![Form](https://dzwonsemrish7.cloudfront.net/items/3G122M3L3I222w1v0t0W/Form.jpg?v=99f647a7)
 
-![Invoice](https://dzwonsemrish7.cloudfront.net/items/1h34052r3S3R2D2a380z/Invoices.jpg?v=78ddc2a5)
+![Invoice](https://dzwonsemrish7.cloudfront.net/items/1h34052r3S3R2D2a380z/Invoices.jpg?v=78ddc2a5) -->
 
 ### Translation
 
 Do you speak multiple languages? We need your help!
 
-If you're interested in translating Manta, please see the [detailed instruction here](https://github.com/hql287/Manta/wiki/Translating-Manta).
-The following languages are currently being translated, if you would like to Manta to support another language, [please submit your request here](https://github.com/hql287/Manta/issues/9).
+If you're interested in translating Manta, please see the [detailed instruction here](https://github.com/AndresMorelos/Manta/wiki/Translating-Manta).
+The following languages are currently being translated, if you would like to Manta to support another language, [please submit your request here](https://github.com/AndresMorelos/Manta/issues/9).
 
 * [🇨🇳 中文 (Chinese Simplified)](https://crowdin.com/project/manta/zh-CN#)
 * [🇨🇳 中文 (Chinese Traditional)](https://crowdin.com/project/manta/zh-TW#)
@@ -83,9 +76,9 @@ The following languages are currently being translated, if you would like to Man
 
 macOS | Windows | Linux
 -----------------| ---| ---|
-<a href='https://github.com/hql287/Manta/releases/download/v1.1.4/Manta-1.1.4.dmg'>Download v1.1.4</a> | <a href='https://github.com/hql287/Manta/releases/download/v1.1.4/Manta.Setup.1.1.4.exe'>Download v1.1.4</a> | <a href='https://github.com/hql287/Manta/releases/download/v1.1.4/Manta-1.1.4-x86_64.AppImage'>Download v1.1.4</a> |
+<a href='https://github.com/AndresMorelos/Manta/releases/download/v1.2.0/Manta-1.1.4.dmg'>Download v1.2.0</a> | <a href='https://github.com/AndresMorelos/Manta/releases/download/v1.2.0/Manta.Setup.1.1.4.exe'>Download v1.2.0</a> | <a href='https://github.com/AndresMorelos/Manta/releases/download/v1.2.0/Manta-1.1.4-x86_64.AppImage'>Download v1.2.0</a> |
 
-[More Download Options](https://github.com/hql287/Manta/releases)
+[More Download Options](https://github.com/AndresMorelos/Manta/releases)
 
 #### Supported Platforms
 Following platforms are supported by Electron:
@@ -104,7 +97,7 @@ Windows 7 and later are supported
 
 [More information](https://github.com/electron/electron/blob/master/docs/tutorial/supported-platforms.md).
 
-Note that on Linux, some users might experience a GPU bug where the select options rendered as a black box, see [issue #128 of Manta](https://github.com/hql287/Manta/pull/128) and [issue #4322 of Electron](https://github.com/electron/electron/issues/4322). This can be fixed by disabling hardware acceleration like so:
+Note that on Linux, some users might experience a GPU bug where the select options rendered as a black box, see [issue #128 of Manta](https://github.com/AndresMorelos/Manta/pull/128) and [issue #4322 of Electron](https://github.com/electron/electron/issues/4322). This can be fixed by disabling hardware acceleration like so:
 
 ```sh
 manta --disable-hardware-acceleration

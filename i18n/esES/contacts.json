@@ -1,0 +1,9 @@
+{
+  "header": "Contactos",
+  "fields": {
+    "contact": "Contacto",
+    "email": "Correo",
+    "phone": "Telefono",
+    "actions": "Acciones"
+  }
+}

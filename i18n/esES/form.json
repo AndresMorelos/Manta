@@ -1,0 +1,69 @@
+{
+  "header": {
+    "new": "Crear una factura",
+    "edit": "Editar factura",
+    "btns": {
+      "clear": "Limpiar",
+      "update": "Actualizar",
+      "saveAndPreview": "Guardar y mostrar"
+    }
+  },
+  "settings": {
+    "name": "Configuraciones del formulario",
+    "hint": "Toggle any field to make it required in the form."
+  },
+  "fields": {
+    "items": {
+      "name": "Producto/Servicio",
+      "description": "Descripción",
+      "price": "Precio",
+      "quantity": "Cantidad",
+      "add": "Agregar un nuevo articulo"
+    },
+    "recipient": {
+      "name": "Destinatario",
+      "select": "Seleccionar",
+      "add": "Crear nuevo"
+    },
+    "discount": {
+      "name": "Descuento",
+      "percentage": "Procentaje",
+      "flat": "Tarifa Plana"
+    },
+    "dueDate": {
+      "name": "Fecha de venciomiento",
+      "placeHolder": "Seleccionar una fecha personalizada",
+      "paymentTerms": {
+        "name": "Seleccionar un plazo de pago",
+        "net7": {
+          "label": "Neto 7",
+          "description": "Pagar siete días despues de la fecha de facturación"
+        },
+        "net10": {
+          "label": "Neto 10",
+          "description": "Pagar diez días despues de la fecha de facturación"
+        },
+        "net30": {
+          "label": "Neto 30",
+          "description": "Pagar 30 días despues de la fecha de facturación"
+        },
+        "net60": {
+          "label": "Neto 60",
+          "description": "Pagar 60 días despues de la fecha de facturación"
+        },
+        "net90": {
+          "label": "Neto 90",
+          "description": "Pagar 90 días despues de la fecha de facturación"
+        }
+      }
+    },
+    "tax": {
+      "name": "Impuesto",
+      "id": "Identificacion de impuesto",
+      "method": "Método",
+      "reverse": "Reverse Charge"
+    },
+    "note": "Nota",
+    "currency": "Moneda"
+  }
+}

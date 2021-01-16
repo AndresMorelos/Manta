@@ -1,9 +1,9 @@
-appId: com.electron.manta
-copyright: Hung Q. Le
+appId: dev.andresmorelos.manta
+copyright: Andres Morelos
 productName: Manta
 publish:
   - provider: github
-    owner: hql287
+    owner: AndresMorelos
     repo: Manta
 directories:
   output: dist/

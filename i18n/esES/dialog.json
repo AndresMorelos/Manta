@@ -1,0 +1,99 @@
+{
+  "appUpdate" : {
+    "available": {
+      "title": "Nueva actualización disponible",
+      "message": "¿Desea iniciar con la descargar de la actualización en segundo plano?"
+    },
+    "noUpdate": {
+      "title": "No hay nuevas actualizaciones disponibles",
+      "message": "Estás usando la ultima versión del aplicativo"
+    },
+    "error": {
+      "title": "Un error ha ocurrido"
+    },
+    "downloaded": {
+      "title": "Actualización descargada",
+      "message": "¿Desea cerrar e instalar la nueva actualización ahora?",
+      "quitNow": "Cerrar ahora",
+      "later": "Luego"
+    }
+  },
+  "noAccess": {
+    "title": "No tiene permisos",
+    "message": "Por favor seleccione otro directorio"
+  },
+  "errorBoundary": "Un error ha ocurrido",
+  "deleteInvoice": {
+    "title": "¿Eliminar esta factura?",
+    "message": "La factura será eliminada permanentemente de la base de datos"
+  },
+  "deleteContact": {
+    "title": "¿Eliminar este contacto?",
+    "message": "El contacto será eliminado permanentemente de la base de datos"
+  },
+  "fileTypeErr": {
+    "title": "Por favor seleccione otro archivo"
+  },
+  "validation": {
+    "invoiceID": {
+      "title": "Identificacion de la factura invaldia",
+      "message": "La identificación de la factura no puede estar en blanco"
+    },
+    "recipient": {
+      "empty": {
+        "title": "Contacto Invalido",
+        "message": "El contacto no puede estar en blanco"
+      },
+      "requiredFields": {
+        "title": "Campos requeridos",
+        "message": "Por favor rellene todos los campos"
+      },
+      "email": {
+        "title": "Correo Invalido",
+        "message": "Por favor seleccione otor correo"
+      }
+    },
+
+    "rows": {
+      "emptyDescription": {
+        "title": "Descripcion invalida",
+        "message": "La descripción no puede estar vacía"
+      },
+      "priceZero": {
+        "title": "Precio invalido",
+        "message": "El precio debe ser mayor a cero"
+      },
+      "qtyZero": {
+        "title": "Cantidad Invalida",
+        "message": "La cantidad debe ser mayor a cero"
+      }
+    },
+
+    "dueDate": {
+      "title": "Fecha de vencimiento invalida",
+      "message": "Por favor seleccione una fecha"
+    },
+
+    "currency": {
+      "fraction": {
+        "title": "Fracción invalida",
+        "message": "Las fracciones decimales deben ser mayores o iguales a cero"
+      }
+    },
+
+    "discount": {
+      "title": "Descuento Invalido",
+      "message": "El valor de descuento debe ser mayor a cero"
+    },
+
+    "tax": {
+      "title": "Impuestos Invalidos",
+      "message": "El valor de los impuestos debe ser mayor a cero"
+    },
+
+    "note": {
+      "title": "Nota Invalida",
+      "message": "El contenido de la nota no puede estar vacío"
+    }
+  }
+}

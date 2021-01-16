@@ -1,0 +1,42 @@
+{
+  "sidebar": {
+    "template": "Plantilla",
+    "alignment": {
+      "name": "Alignment",
+      "top": "Arriba",
+      "middle": "Medio",
+      "bottom": "Abajo"
+    },
+    "fontSize": "Tamaño de letra",
+    "logoSize": "Tamaño de Logo",
+    "toggle": {
+      "name": "Toggle",
+      "logo": "Logo",
+      "symbol": "Simbolo",
+      "recipient": "Destinatario"
+    },
+    "accentColor": {
+      "name" : "Accent Color",
+      "useCustom": "Use Custom"
+    },
+    "actions": {
+      "name": "Acciones",
+      "savePDF": "Exportar a PDF",
+      "saveConfigs": "Guardar Configuarciones"
+    }
+  },
+  "common": {
+    "billedTo": "Facturado a",
+    "chooseInvoiceToPreview": "Please choose an Invoice to preview",
+    "created": "Creada",
+    "due": "Due",
+    "invoice": "Factura",
+    "itemDescription": "Descripción del articulo",
+    "notice": "Nota",
+    "order": "No",
+    "price": "Precio",
+    "qty": "Cantidad",
+    "subtotal": "Subtotal",
+    "total": "Total"
+  }
+}

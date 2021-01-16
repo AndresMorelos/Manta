@@ -9,6 +9,7 @@ const moment = require('moment');
 // Language Files
 import de from './de';
 import en from './en';
+import esES from './esES';
 import fr from './fr';
 import id from './id';
 import it from './it';
@@ -25,6 +26,7 @@ i18n.use(reactI18nextModule).init({
   resources: {
     de,
     en,
+    "esES": esES,
     fr,
     id,
     it,

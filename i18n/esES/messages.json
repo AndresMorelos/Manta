@@ -1,0 +1,16 @@
+{
+  "noContact": "Todavía no tienes contactos",
+  "noInvoice": "Todavia no tienes facturas",
+  "invoice": {
+    "saved": "Factura guardada satifactoriamente",
+    "updated": "Factura actualiada satifactoriamente",
+    "deleted": "Factura eliminada satifactoriamente"
+  },
+  "contact": {
+    "saved": "Contacto guardado satifactoriamente",
+    "deleted": "Contacto eliminado satifactoriamente"
+  },
+  "settings": {
+    "saved": "Todas las configuraciones han sido guardadas satifactoriamente"
+  }
+}

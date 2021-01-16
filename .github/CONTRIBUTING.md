@@ -52,7 +52,7 @@ The commit messages that accompany your code changes are an important piece of d
 
 ### Adding/Refactoring Custom Fields
 
-If you're planning to add a new custom field, or refactoring old ones, please read this guide: [Adding and Refactoring Custom Fields](https://github.com/hql287/Manta/wiki/Adding-and-Refactoring-Custom-Fields)
+If you're planning to add a new custom field, or refactoring old ones, please read this guide: [Adding and Refactoring Custom Fields](https://github.com/AndresMorelos/Manta/wiki/Adding-and-Refactoring-Custom-Fields)
 
 ### Submitting Your Change
 

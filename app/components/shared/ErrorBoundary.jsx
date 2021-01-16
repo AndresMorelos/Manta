@@ -53,7 +53,7 @@ class ErrorBoundary extends Component {
           <p>
             Please report this to the maintainer of Manta.
             <br />
-            GitHub: https://github.com/hql287/Manta
+            GitHub: https://github.com/AndresMorelos/Manta
             <br />
             Email: hi@manta.life
           </p>

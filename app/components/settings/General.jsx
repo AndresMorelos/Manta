@@ -67,6 +67,7 @@ class General extends Component {
                 value={this.state.language}
                 onChange={this.handleInputChange}
               >
+                <option value="esES">{t('settings:fields:language:esES', { lng: 'esES' })}</option>  
                 <option value="de">{t('settings:fields:language:de', { lng: 'de' })}</option>
                 <option value="en">{t('settings:fields:language:en', { lng: 'en' })}</option>
                 <option value="fr">{t('settings:fields:language:fr', { lng: 'fr' })}</option>
